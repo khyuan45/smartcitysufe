@@ -2,7 +2,7 @@
 
 There are certain areas around our school that has particular traffic problems. Cars are constantly jammed and usually it takes a long time to pass through. In this project, we focus on the optimization of these specific crossroads and seek various ways to tackle the problem.
 
-The project starts this summer.
+The project starts this summer. It is a project by Aihua Li, Chenyang Zhu, Kanghong Yuan, Wenqi Chen and Yajie Zhang.
 
 ## Methods
 
